@@ -12881,3 +12881,572 @@ Processing by HealthController#index as */*
 Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
 
 
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:49:46 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 2.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:50:16 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:50:46 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:51:16 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:51:46 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 1.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:52:16 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:52:46 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:53:16 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:53:46 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:54:16 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:54:46 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:55:16 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:55:47 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:56:17 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 4ms (Views: 1.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:56:47 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:57:17 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:57:47 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 0.9ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:58:17 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:58:47 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:59:17 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 0.9ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 20:59:47 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:00:17 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:00:47 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:01:17 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:01:48 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:02:18 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 1.4ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:02:48 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:03:18 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 1.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:03:48 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:04:18 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:04:48 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 0.8ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:05:18 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:05:48 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:06:18 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:06:48 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:07:18 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:07:48 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:08:19 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:08:49 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:09:19 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:09:49 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 0.8ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:10:19 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:10:49 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:11:19 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:11:49 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 0.7ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:12:19 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:12:49 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 0.7ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:13:19 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:13:49 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 4ms (Views: 1.5ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:14:19 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 8ms (Views: 1.6ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:14:50 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 6ms (Views: 1.3ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:15:20 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 8ms (Views: 2.5ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:15:50 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 0.8ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:16:20 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 1.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:16:50 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 0.9ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:17:20 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 13ms (Views: 7.6ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:17:50 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 4ms (Views: 1.8ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:18:21 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 4ms (Views: 1.8ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:18:51 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 9ms (Views: 1.8ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:19:21 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 15ms (Views: 2.3ms | Allocations: 95)
+
+
+  [1m[35m (2.2ms)[0m  [1m[35mCREATE DATABASE "bcaf_digital_development" ENCODING = 'unicode'[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT pg_try_advisory_lock(4274515456267382025)[0m
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.0ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT pg_advisory_unlock(4274515456267382025)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:19:51 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 19ms (Views: 5.3ms | Allocations: 95)
+
+
+Started GET "/health" for 192.168.65.1 at 2025-04-26 21:19:52 +0000
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HealthController#index as */*
+Completed 200 OK in 14ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 2916)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:20:21 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 1.1ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:20:51 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:21:21 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 2ms (Views: 1.3ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:21:52 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 5ms (Views: 2.7ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:22:22 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 6ms (Views: 2.5ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:22:52 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 4ms (Views: 1.9ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:23:22 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 98ms (Views: 91.6ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:23:53 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 1.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:24:23 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 7ms (Views: 2.2ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:24:53 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 3ms (Views: 1.3ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:25:23 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 7ms (Views: 3.0ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:25:53 +0000
+Processing by HealthController#index as */*
+Completed 200 OK in 7ms (Views: 1.7ms | Allocations: 95)
+
+
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:26:23 +0000
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for HealthController
+Did you mean?  index):
+  
+actionpack (6.1.7.6) lib/abstract_controller/base.rb:160:in `process'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:842:in `call'
+rack (2.2.8) lib/rack/etag.rb:27:in `call'
+rack (2.2.8) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.8) lib/rack/head.rb:12:in `call'
+activerecord (6.1.7.6) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.7.6) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.7.6) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.7.6) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/host_authorization.rb:148:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+railties (6.1.7.6) lib/rails/engine.rb:539:in `call'
+puma (5.6.7) lib/puma/configuration.rb:252:in `call'
+puma (5.6.7) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.7) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.7) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.7) lib/puma/server.rb:443:in `process_client'
+puma (5.6.7) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:26:53 +0000
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for HealthController
+Did you mean?  index):
+  
+actionpack (6.1.7.6) lib/abstract_controller/base.rb:160:in `process'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:842:in `call'
+rack (2.2.8) lib/rack/etag.rb:27:in `call'
+rack (2.2.8) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.8) lib/rack/head.rb:12:in `call'
+activerecord (6.1.7.6) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.7.6) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.7.6) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.7.6) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/host_authorization.rb:148:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+railties (6.1.7.6) lib/rails/engine.rb:539:in `call'
+puma (5.6.7) lib/puma/configuration.rb:252:in `call'
+puma (5.6.7) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.7) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.7) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.7) lib/puma/server.rb:443:in `process_client'
+puma (5.6.7) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:27:23 +0000
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for HealthController
+Did you mean?  index):
+  
+actionpack (6.1.7.6) lib/abstract_controller/base.rb:160:in `process'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:842:in `call'
+rack (2.2.8) lib/rack/etag.rb:27:in `call'
+rack (2.2.8) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.8) lib/rack/head.rb:12:in `call'
+activerecord (6.1.7.6) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.7.6) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.7.6) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.7.6) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/host_authorization.rb:148:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+railties (6.1.7.6) lib/rails/engine.rb:539:in `call'
+puma (5.6.7) lib/puma/configuration.rb:252:in `call'
+puma (5.6.7) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.7) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.7) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.7) lib/puma/server.rb:443:in `process_client'
+puma (5.6.7) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/health" for 127.0.0.1 at 2025-04-26 21:27:54 +0000
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for HealthController
+Did you mean?  index):
+  
+actionpack (6.1.7.6) lib/abstract_controller/base.rb:160:in `process'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.7.6) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.7.6) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.7.6) lib/action_dispatch/routing/route_set.rb:842:in `call'
+rack (2.2.8) lib/rack/etag.rb:27:in `call'
+rack (2.2.8) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.8) lib/rack/head.rb:12:in `call'
+activerecord (6.1.7.6) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.7.6) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.7.6) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.7.6) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.7.6) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.7.6) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.7.6) lib/action_dispatch/middleware/host_authorization.rb:148:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.2) lib/rack/cors.rb:102:in `call'
+railties (6.1.7.6) lib/rails/engine.rb:539:in `call'
+puma (5.6.7) lib/puma/configuration.rb:252:in `call'
+puma (5.6.7) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.7) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.7) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.7) lib/puma/server.rb:443:in `process_client'
+puma (5.6.7) lib/puma/thread_pool.rb:147:in `block in spawn_thread'

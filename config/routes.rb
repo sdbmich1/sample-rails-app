@@ -1,17 +1,21 @@
 Rails.application.routes.draw do
-  # Simple API endpoints
-  get '/api/ping', to: 'api#ping'
-  get '/api/health', to: 'api#health'
-  post '/api/auth', to: 'api#auth'
-  
-  # Legacy endpoints
-  get 'ping', to: 'ping#index'
-  get 'health', to: 'health#index'
-  get 'test', to: 'test#index'
-  
-  # Authentication routes
-  post 'auth/login', to: 'auth#login'
-  get 'auth/verify', to: 'auth#verify'
-  
-  # Additional routes can be added here
+  # Health check
+  get 'health', to: 'health#show'
+
+  # API routes
+  namespace :api do
+    # Users and authentication
+    post '/users', to: 'users#create'
+    post '/users/login', to: 'users#login'
+    get '/user', to: 'users#current'
+    
+    # Library management endpoints
+    resources :libraries, only: [:index, :show, :create, :update, :destroy]
+    resources :items, only: [:index, :show, :create, :update, :destroy]
+    resources :library_items, only: [:index, :show, :create, :update, :destroy]
+    resources :borrowed_items, only: [:index, :show, :create, :update, :destroy]
+  end
+
+  # Fallback to let the frontend handle routing
+  get '*path', to: 'application#frontend_index_fallback'
 end 
