@@ -1,0 +1,42 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore pidfiles, but keep the directory.
+/tmp/pids/*
+!/tmp/pids/
+!/tmp/pids/.keep
+
+# Ignore uploaded files in development.
+/storage/*
+!/storage/.keep
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+# Ignore database configuration
+/config/database.yml
+
+# Ignore Bootsnap cache
+/tmp/cache/bootsnap*
+
+# Ignore dotenv files
+.env*
+
+# Ignore node modules
+/node_modules
+
+# Ignore yarn
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+# Ignore system files
+.DS_Store
+.idea
+.vscode 
