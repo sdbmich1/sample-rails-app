@@ -1,0 +1,23 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  # For details on connection pooling, see Rails configuration guide
+  # http://guides.rubyonrails.org/configuring.html#database-pooling
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: sdbmich
+  password: setup#123
+  host: db
+
+development:
+  <<: *default
+  database: bcaf_digital_development
+
+test:
+  <<: *default
+  database: bcaf_digital_test
+
+production:
+  <<: *default
+  database: bcaf_digital_production
+  username: postgres
+  password: <%= ENV['DATABASE_PASSWORD'] %> 

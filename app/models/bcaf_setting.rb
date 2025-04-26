@@ -1,0 +1,2 @@
+class BcafSetting < ApplicationRecord
+end 
