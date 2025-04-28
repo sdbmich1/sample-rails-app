@@ -3,8 +3,8 @@ require 'net/http'
 require 'uri'
 require 'json'
 
-# Set API URL - Using port 3003 for the bcaf_digital API container
-API_URL = 'http://localhost:3003'
+# Set API URL - Update to use port 3001 for the running simple-server
+API_URL = 'http://localhost:3001'
 
 # Generate a random email for testing
 random_string = ('a'..'z').to_a.sample(8).join
@@ -130,9 +130,9 @@ end
 
 # Test 3: Access protected route with token
 puts "\n=== TEST 3: Access protected route with token ==="
-# Try both token formats
+# Update to use Bearer format
 auth_headers = {
-  "Authorization" => "Token #{auth_token}",
+  "Authorization" => "Bearer #{auth_token}",
   "X-User-Email" => email,
   "X-User-Token" => auth_token
 }
